@@ -3,7 +3,7 @@
 **Usage**
 
 ```
--obfuscationdictionary dictionary-dict.txt
--classobfuscationdictionary dictionary-dict.txt
--packageobfuscationdictionary dictionary-dict.txt
+-obfuscationdictionary dictionary-drakeet.txt
+-classobfuscationdictionary dictionary-drakeet.txt
+-packageobfuscationdictionary dictionary-drakeet.txt
 ```
